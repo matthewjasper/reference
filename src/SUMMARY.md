@@ -91,8 +91,14 @@
     - [Subtyping and Variance](subtyping.md)
     - [Trait and lifetime bounds](trait-bounds.md)
     - [Type coercions](type-coercions.md)
+
+- [Ownership and Lifetimes](ownership-and-lifetimes.md)
+    - [Variables](variables.md)
     - [Destructors](destructors.md)
+    - [Lifetimes](lifetimes.md)
     - [Lifetime elision](lifetime-elision.md)
+    - [Subtyping](subtyping.md)
+    - [Higher ranked lifetimes](higher-ranked-lifetimes.md)
 
 - [Special types and traits](special-types-and-traits.md)
 
